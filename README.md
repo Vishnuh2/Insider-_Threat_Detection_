@@ -1,6 +1,6 @@
 # Insider-_Threat_Detection_
 
-Mini project.
+Mini project for insider threat detection.
 
 ## Push this project to GitHub
 
